@@ -4,7 +4,7 @@
 * **Fatma Sena KALDIRIMCI** (Department of Electrical & Electronics Engineering)
 * **Zeynep Sude ŞAHİN** (Department of Electrical & Electronics Engineering)
 * **Hakan SOLAK** (Department of Electrical & Electronics Engineering)
-* 
+  
 The pulse sensor is placed in the glove so that it matches the patient's pulse. The patient's pulse information is measured at regular intervals. The measured pulse value is continuously displayed on the glove's OLED screen as "Pulse: xxx bpm." The glove's primary purpose is to communicate the patient's requests to the caregiver. Each finger has a button for the patient's needs.
 
 - **Index finger:** Press and release -> Need water; press and hold  ->  Need food  
